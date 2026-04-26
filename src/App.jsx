@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Hello, My name is rinanooooo
+            Hello, My first vercel!!!
           </p>
         </div>
         <button
